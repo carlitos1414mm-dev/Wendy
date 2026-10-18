@@ -1,1 +1,16 @@
-
+{
+  "tasaCambioDefault": 18.5,
+  "categorias": [
+    { "id": "comida",     "nombre": "Comida",     "icono": "utensils" },
+    { "id": "taxi",       "nombre": "Taxi",       "icono": "taxi" },
+    { "id": "ropa",       "nombre": "Ropa",       "icono": "shirt" },
+    { "id": "tienda",     "nombre": "Tienda",     "icono": "bag" },
+    { "id": "casa",       "nombre": "Casa",       "icono": "home" },
+    { "id": "pecera",     "nombre": "Pecera",     "icono": "fish" },
+    { "id": "emergencia", "nombre": "Emergencia", "icono": "siren" },
+    { "id": "cruce",      "nombre": "Cruce",      "icono": "milestone" },
+    { "id": "trabajo",    "nombre": "Trabajo",    "icono": "briefcase" },
+    { "id": "otros",      "nombre": "Otros",      "icono": "ellipsis" },
+    { "id": "telefono",   "nombre": "Teléfono",   "icono": "phone" }
+  ]
+}
